@@ -503,7 +503,9 @@ function hmrAcceptRun(bundle, id) {
 }
 
 },{}],"8lqZg":[function(require,module,exports) {
+var _stylesCss = require("./css/styles.css");
+const DEBOUNCE_DELAY = 300;
 
-},{}]},["1RB6v","8lqZg"], "8lqZg", "parcelRequired7c6")
+},{"./css/styles.css":"1CY4s"}],"1CY4s":[function() {},{}]},["1RB6v","8lqZg"], "8lqZg", "parcelRequired7c6")
 
 //# sourceMappingURL=index.975ef6c8.js.map
